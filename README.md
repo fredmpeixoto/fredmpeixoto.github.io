@@ -9,17 +9,17 @@ about technologies of development systems.
 
 ⚡ I have some repositories to show up my knowledge.
 
-- [A Search weather project](https://github.com/fredmpeixoto/forecast) Angular + AspNET + Docker, you can pull and execute just using DOCKER.
-- [CRUD Project](https://github.com/fredmpeixoto/register-users) Angular + AspNET + SQL, it a manual deployment.
+- [A Search weather project](https://github.com/fredmpeixoto/forecast) Angular + AspNET + Docker, you can pull and execute just using DOCKER
+- [CRUD Project](https://github.com/fredmpeixoto/register-users) Angular + AspNET + SQL, it a manual deployment
 - [Angular Project](https://github.com/fredmpeixoto/hash-game) A HashGame showing logic works using a Multidimensional Array | 🎮 [Play my Hash Game](https://fredmpeixoto.github.io/hash-game/)
 - [Angular Single Page](https://github.com/fredmpeixoto/gdgjsc) It is a single page to show social media URL| [Link Page](http://gdgsjc.github.io)
-- [NodeJS - SOLID](https://github.com/fredmpeixoto/solid-examples) A Project which I am proud about SOLID Principles creating all principles as NodeJS class.
+- [NodeJS - SOLID](https://github.com/fredmpeixoto/solid-examples) A Project which I am proud about SOLID Principles creating all principles as NodeJS class
 
 💬 Also I've been writing articles on Linkedin.
 
 Links for all: https://www.linkedin.com/in/fredpeixoto/recent-activity/articles/
 
-📫 Finally, I showed in a short talk how to build environment variables from angular on Youtube(From 09:05m).
+📫 Finally, I showed in a short talk how to build environment variables from angular on YouTube (From 09:05m).
 
 LInk https://www.youtube.com/watch?v=wr-lnb9c9tE&t=545s
 
